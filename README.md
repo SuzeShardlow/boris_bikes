@@ -1,8 +1,8 @@
 # Boris Bikes
 
-![Try it here!](https://suzeshardlow.github.io/Boris_Bikes/)
+[Try it here!](https://suzeshardlow.github.io/Boris_Bikes/)
 
-A map showing the locations of the ![Boris Bike](https://tfl.gov.uk/modes/cycling/santander-cycles) stations.  Data is pulled from the ![Transport for London (TfL) API](https://tfl.gov.uk/info-for/open-data-users/) and shown on a map using the ![Google Maps API](https://developers.google.com/maps/).
+A map showing the locations of the [Boris Bike](https://tfl.gov.uk/modes/cycling/santander-cycles) stations.  Data is pulled from the [Transport for London (TfL) API](https://tfl.gov.uk/info-for/open-data-users/) and shown on a map using the [Google Maps API](https://developers.google.com/maps/).
 
 ## Introduction
 
@@ -14,7 +14,7 @@ I love real-time data so I enjoyed using the TfL API to populate the map.
 
 ## Build
 
-This project was built using HTML, CSS and JavaScript (including jQuery), along with the TfL API, Google Maps API and styling from ![Snazzy Maps](https://snazzymaps.com/).
+This project was built using HTML, CSS and JavaScript (including jQuery), along with the TfL API, Google Maps API and styling from [Snazzy Maps](https://snazzymaps.com/).
 
 I needed very little in my HTML file as its main purposes were to define the sources for the CSS, JavaScript and Google Map.  It also defined the place where the map would be rendered on the page.
 
