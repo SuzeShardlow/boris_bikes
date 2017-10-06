@@ -1,6 +1,6 @@
 # Boris Bikes
 
-[Try it here!](https://suzeshardlow.github.io/Boris_Bikes/)
+[Try it here!](http://suzeshardlow.com/boris_bikes/)
 
 A map showing the locations of the [Boris Bike](https://tfl.gov.uk/modes/cycling/santander-cycles) stations.  Data is pulled from the [Transport for London (TfL) API](https://tfl.gov.uk/info-for/open-data-users/) and shown on a map using the [Google Maps API](https://developers.google.com/maps/).
 
@@ -33,4 +33,4 @@ As bonuses, I decided to:
 
 ## Future developments
 
-I had included some code to obtain the user's current location and then centre the map on that location, however I need to fix this.
+I have included some code to obtain the user's current location and then centre the map on that location.  This works if you run the app on your local machine but for it to work on the publicly deployed app, it needs to be running somewhere with SSL.
