@@ -2,7 +2,7 @@
 
 [Try it here!](http://suzeshardlow.com/boris_bikes/)
 
-A map showing the locations of the [Boris Bike](https://tfl.gov.uk/modes/cycling/santander-cycles) stations.  Data is pulled from the [Transport for London (TfL) API](https://tfl.gov.uk/info-for/open-data-users/) and shown on a map using the [Google Maps API](https://developers.google.com/maps/).
+A map showing the locations of the [Boris Bike](https://tfl.gov.uk/modes/cycling/santander-cycles) (officially called Santander Cycle) stations.  Data is pulled from the [Transport for London (TfL) API](https://tfl.gov.uk/info-for/open-data-users/) and shown on a map using the [Google Maps API](https://developers.google.com/maps/).
 
 ## Introduction
 
