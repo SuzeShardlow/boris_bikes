@@ -26,7 +26,7 @@ The locations of the docking stations are buried in objects within the API.  The
 
 As bonuses, I decided to:
 
-* Substitute the default Google Maps marker with a custom one - a photo of Boris Johnson's head.
+* Substitute the default Google Maps marker with a custom one - a photo of [Boris Johnson](https://en.wikipedia.org/wiki/Boris_Johnson)'s head.
 * Write some logic to have Boris' head showing in full colour if there is more than one bike at the docking station, or in black and white if there are 0 or 1 bikes at the docking station (thus saving the user a wasted journey).
 * Change the styling of the map to make it look more modern.
 * Add an info window which appears when each head is clicked, showing the name of each docking station, the number of available bikes and the number of spaces.
