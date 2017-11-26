@@ -8,7 +8,7 @@ A map showing the locations of the [Boris Bike](https://tfl.gov.uk/modes/cycling
 
 I produced this piece of work in one evening during week five of the 12-week web development bootcamp I attended.
 
-The brief was to create a web page showing a Google Map, and then place a marker on the map at the location of each Boris Bike docking station.
+The brief was to create a web page showing a Google Map and then place a marker on the map at the location of each Boris Bike docking station.
 
 I love real-time data so I enjoyed using the TfL API to populate the map.
 
