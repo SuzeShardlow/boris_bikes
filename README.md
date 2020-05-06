@@ -34,3 +34,4 @@ As bonuses, I decided to:
 ## Future developments
 
 I have included some code to obtain the user's current location and then centre the map on that location.  This works if you run the app on your local machine but for it to work on the publicly deployed app, it needs to be running somewhere with SSL.
+
