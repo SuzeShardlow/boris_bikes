@@ -22,12 +22,12 @@ I then looked at the TfL API documentation.  The TfL API is very useful in that 
 
 The locations of the docking stations are buried in objects within the API.  The good news is that the latitude and longitude values are provided for each one, which made it easy to plot them accurately on the map once you have successfully made an AJAX request for the data.
 
-## Bonus functionality
+## Bonus Functionality
 
 As bonuses, I decided to:
 
 * Substitute the default Google Maps marker with a custom one - a photo of [Boris Johnson](https://en.wikipedia.org/wiki/Boris_Johnson)'s head.
-* Write some logic to have Boris' head showing in full colour if there is more than one bike at the docking station, or in black and white if there are 0 or 1 bikes at the docking station (thus saving the user a wasted journey).
+* Write some logic to have Boris Johnson's head showing in full colour if there is more than one bike at the docking station, or in black and white if there are 0 or 1 bikes at the docking station (thus saving the user a wasted journey).
 * Change the styling of the map to make it look more modern.
 * Add an info window which appears when each head is clicked, showing the name of each docking station, the number of available bikes and the number of spaces.
 
